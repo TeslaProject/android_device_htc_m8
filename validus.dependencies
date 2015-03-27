@@ -12,7 +12,7 @@
     "branch": "cm-12.0"
   },
   {
-    "remote": "cm-12.0",
+    "remote":     "gh",
     "repository": "TheMuppets/proprietary_vendor_htc",
     "target_path": "vendor/htc",
     "branch":      "cm-12.0"
